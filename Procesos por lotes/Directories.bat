@@ -1,5 +1,5 @@
 @echo off
-REM Script Directories.bat
+REM Script: Directories.bat
 REM Autor: Sergi Barbosa Muñoz
 REM Fecha:20/11/2024
 
