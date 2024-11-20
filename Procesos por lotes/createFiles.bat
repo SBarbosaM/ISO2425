@@ -1,7 +1,7 @@
 @echo off
 REM Script mkprofile.bat
 REM Autor: Sergi Barbosa Muñoz
-REM Fecha:13/11/2024
+REM Fecha:20/11/2024
 
 set /P eleccion="Menu: [(1)Crear archivo .txt] [(2)Crear archivo .bat]"
 
