@@ -1,5 +1,5 @@
 @echo off
-REM Script mkprofile.bat
+REM Script: mkprofile.bat
 REM Autor: Sergi Barbosa Muñoz
 REM Fecha:13/11/2024
 mkdir %USERPROFILE%\asir %USERPROFILE%\daw %USERPROFILE%\ceti %USERPROFILE%\smr
