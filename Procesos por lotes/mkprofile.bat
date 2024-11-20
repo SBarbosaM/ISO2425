@@ -1,7 +1,7 @@
 @echo off
 REM Script mkprofile.bat
-Rem Autor: Ana Luisa Vargas Smith
-Rem Fecha:13/11/2024
+REM Autor: Sergi Babosa Muñoz
+REM Fecha:13/11/2024
 mkdir %USERPROFILE%\asir %USERPROFILE%\daw %USERPROFILE%\ceti %USERPROFILE%\smr
 mkdir %USERPROFILE%\asir\doc  %USERPROFILE%\asir\pract %USERPROFILE%\asir\examen
 mkdir %USERPROFILE%\daw\doc  %USERPROFILE%\daw\pract %USERPROFILE%\daw\examen
