@@ -1,6 +1,6 @@
 @echo off
 REM Script mkprofile.bat
-REM Autor: Sergi Babosa Muñoz
+REM Autor: Sergi Barbosa Muñoz
 REM Fecha:13/11/2024
 mkdir %USERPROFILE%\asir %USERPROFILE%\daw %USERPROFILE%\ceti %USERPROFILE%\smr
 mkdir %USERPROFILE%\asir\doc  %USERPROFILE%\asir\pract %USERPROFILE%\asir\examen
