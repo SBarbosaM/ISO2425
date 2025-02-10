@@ -1,5 +1,5 @@
 #!/bin/bash
-#Título:Cálculo
+#Título:Cálculadora
 #Autor:Sergi Barbosa Muñoz
 #Fecha:20/01/2025
 
